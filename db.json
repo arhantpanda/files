@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 12,
   "results": [
     {
       "claimID": "123451",
@@ -12,6 +12,42 @@
     {
       "claimID": "123453",
       "claimStatus": "A"
+    },
+    {
+      "claimID": "123454",
+      "claimStatus": "B"
+    },
+    {
+      "claimID": "123455",
+      "claimStatus": "A"
+    },
+    {
+      "claimID": "123456",
+      "claimStatus": "C"
+    },
+    {
+      "claimID": "123457",
+      "claimStatus": "A"
+    },
+    {
+      "claimID": "123458",
+      "claimStatus": "A"
+    },
+    {
+      "claimID": "123459",
+      "claimStatus": "A"
+    },
+    {
+      "claimID": "123460",
+      "claimStatus": "B"
+    },
+    {
+      "claimID": "123461",
+      "claimStatus": "D"
+    },
+    {
+      "claimID": "123462",
+      "claimStatus": "C"
     }
   ]
 }
