@@ -3,6 +3,7 @@
   "results": [
     {
       "claimID": "123451",
+      "memberID": "23456",
       "claimStatus": "A",
       "firstName": "Abc123",
       "lastName": "Xyz123",
@@ -27,6 +28,7 @@
     },
     {
       "claimID": "123452",
+      "memberID": "23458",
       "claimStatus": "B",
       "firstName": "Abc234",
       "lastName": "Xyz234",
@@ -51,6 +53,7 @@
     },
     {
       "claimID": "123453",
+      "memberID": "34564",
       "claimStatus": "A",
       "firstName": "Abc345",
       "lastName": "Xyz345",
@@ -75,6 +78,7 @@
     },
     {
       "claimID": "123454",
+      "memberID": "89789",
       "claimStatus": "B",
       "firstName": "Abc456",
       "lastName": "Xyz456",
@@ -99,6 +103,7 @@
     },
     {
       "claimID": "123455",
+      "memberID": "12314",
       "claimStatus": "A",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -123,6 +128,7 @@
     },
     {
       "claimID": "123456",
+      "memberID": "56756",
       "claimStatus": "C",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -147,6 +153,7 @@
     },
     {
       "claimID": "123457",
+      "memberID": "789789",
       "claimStatus": "A",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -171,6 +178,7 @@
     },
     {
       "claimID": "123458",
+      "memberID": "85345",
       "claimStatus": "A",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -195,6 +203,7 @@
     },
     {
       "claimID": "123459",
+      "memberID": "234235",
       "claimStatus": "A",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -219,6 +228,7 @@
     },
     {
       "claimID": "123460",
+      "memberID": "12312",
       "claimStatus": "B",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -243,6 +253,7 @@
     },
     {
       "claimID": "123461",
+      "memberID": "72575",
       "claimStatus": "D",
       "firstName": "Abc",
       "lastName": "Xyz",
@@ -267,6 +278,7 @@
     },
     {
       "claimID": "123462",
+      "memberID": "956453",
       "claimStatus": "C",
       "firstName": "Abc789",
       "lastName": "Xyz789",
