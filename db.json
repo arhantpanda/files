@@ -3,51 +3,291 @@
   "results": [
     {
       "claimID": "123451",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc123",
+      "lastName": "Xyz123",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "2123",
+      "totalPaidAmt": "1123",
+      "procedureCode": [
+        "97011",
+        "99211"
+      ],
+      "diagnosisCode": [
+        "F01.51",
+        "Z90.41"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123452",
-      "claimStatus": "B"
+      "claimStatus": "B",
+      "firstName": "Abc234",
+      "lastName": "Xyz234",
+      "dateOfServiceStart": "2019-02-21",
+      "dateOfServiceEnd": "2019-02-25",
+      "cirrusReceiptDate": "2019-03-25",
+      "claimType": "2",
+      "totalBilledAmt": "2234",
+      "totalPaidAmt": "1234",
+      "procedureCode": [
+        "97012",
+        "99212"
+      ],
+      "diagnosisCode": [
+        "F01.52",
+        "Z90.42"
+      ],
+      "editCode": [
+        "CE002",
+        "MQ002"
+      ]
     },
     {
       "claimID": "123453",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc345",
+      "lastName": "Xyz345",
+      "dateOfServiceStart": "2018-03-21",
+      "dateOfServiceEnd": "2018-03-25",
+      "cirrusReceiptDate": "2018-04-25",
+      "claimType": "2",
+      "totalBilledAmt": "2345",
+      "totalPaidAmt": "1345",
+      "procedureCode": [
+        "97013",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.53",
+        "Z90.43"
+      ],
+      "editCode": [
+        "CE003",
+        "MQ003"
+      ]
     },
     {
       "claimID": "123454",
-      "claimStatus": "B"
+      "claimStatus": "B",
+      "firstName": "Abc456",
+      "lastName": "Xyz456",
+      "dateOfServiceStart": "2018-04-21",
+      "dateOfServiceEnd": "2018-04-25",
+      "cirrusReceiptDate": "2018-05-25",
+      "claimType": "3",
+      "totalBilledAmt": "2456",
+      "totalPaidAmt": "1456",
+      "procedureCode": [
+        "97014",
+        "99214"
+      ],
+      "diagnosisCode": [
+        "F01.54",
+        "Z90.44"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123455",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123456",
-      "claimStatus": "C"
+      "claimStatus": "C",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123457",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123458",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123459",
-      "claimStatus": "A"
+      "claimStatus": "A",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123460",
-      "claimStatus": "B"
+      "claimStatus": "B",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123461",
-      "claimStatus": "D"
+      "claimStatus": "D",
+      "firstName": "Abc",
+      "lastName": "Xyz",
+      "dateOfServiceStart": "2019-01-21",
+      "dateOfServiceEnd": "2019-01-25",
+      "cirrusReceiptDate": "2019-02-25",
+      "claimType": "2",
+      "totalBilledAmt": "200",
+      "totalPaidAmt": "100",
+      "procedureCode": [
+        "97010",
+        "99213"
+      ],
+      "diagnosisCode": [
+        "F01.50",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE001",
+        "MQ001"
+      ]
     },
     {
       "claimID": "123462",
-      "claimStatus": "C"
+      "claimStatus": "C",
+      "firstName": "Abc789",
+      "lastName": "Xyz789",
+      "dateOfServiceStart": "2018-11-21",
+      "dateOfServiceEnd": "2018-11-25",
+      "cirrusReceiptDate": "2018-12-25",
+      "claimType": "3",
+      "totalBilledAmt": "987",
+      "totalPaidAmt": "789",
+      "procedureCode": [
+        "97019",
+        "99219"
+      ],
+      "diagnosisCode": [
+        "F01.59",
+        "Z90.49"
+      ],
+      "editCode": [
+        "CE009",
+        "MQ009"
+      ]
     }
   ]
 }
