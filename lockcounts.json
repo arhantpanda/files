@@ -1,0 +1,21 @@
+{
+  "count": 4,
+  "results": [
+    {
+      "editLockUserID": "RSHAR45",
+      "noOfClaims": "10"
+    },
+    {
+      "editLockUserID": "SGALLA9",
+      "noOfClaims": "20"
+    },
+    {
+      "editLockUserID": "MADAPA",
+      "noOfClaims": "15"
+    },
+    {
+      "editLockUserID": "APANDA10",
+      "noOfClaims": "10"
+    }
+  ]
+}
